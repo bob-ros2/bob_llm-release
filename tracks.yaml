@@ -19,11 +19,11 @@ tracks:
     name: upstream
     patches: null
     release_inc: '2'
-    release_repo_url: null
+    release_repo_url: https://github.com/bob-ros2/bob_llm-release.git
     release_tag: :{version}
     ros_distro: humble
     vcs_type: git
-    vcs_uri: git@github.com:bob-ros2/bob_llm.git
+    vcs_uri: https://github.com/bob-ros2/bob_llm.git
     version: :{auto}
   rolling:
     actions:
@@ -45,9 +45,9 @@ tracks:
     name: upstream
     patches: null
     release_inc: '2'
-    release_repo_url: null
+    release_repo_url: https://github.com/bob-ros2/bob_llm-release.git
     release_tag: :{version}
     ros_distro: rolling
     vcs_type: git
-    vcs_uri: git@github.com:bob-ros2/bob_llm.git
+    vcs_uri: https://github.com/bob-ros2/bob_llm.git
     version: :{auto}
