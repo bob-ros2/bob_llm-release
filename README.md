@@ -1,3 +1,26 @@
+## bob_llm (humble) - 1.0.1-3
+
+The packages in the `bob_llm` repository were released into the `humble` distro by running `/usr/bin/bloom-release --ros-distro humble --track humble bob_llm --non-interactive --override-release-repository-url https://github.com/bob-ros2/bob_llm-release.git` on `Mon, 26 Jan 2026 20:46:22 -0000`
+
+The `bob_llm` package was released.
+
+Version of package(s) in repository `bob_llm`:
+
+- upstream repository: https://github.com/bob-ros2/bob_llm.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.0.1-2`
+- new version: `1.0.1-3`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## bob_llm (rolling) - 1.0.1-2
 
 The packages in the `bob_llm` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --ros-distro rolling --track rolling bob_llm --non-interactive --override-release-repository-url https://github.com/bob-ros2/bob_llm-release.git` on `Mon, 26 Jan 2026 20:35:23 -0000`
