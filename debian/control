@@ -1,0 +1,12 @@
+Source: ros-rolling-bob-llm
+Section: misc
+Priority: optional
+Maintainer: Bob Ros <bobmeuchelm@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-rolling-ament-cmake, ros-rolling-ament-lint-auto <!nocheck>, ros-rolling-ament-lint-common <!nocheck>, ros-rolling-std-msgs, ros-rolling-ros-workspace
+Homepage: https://github.com/bob-ros2/bob_llm
+Standards-Version: 3.9.2
+
+Package: ros-rolling-bob-llm
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3-requests, python3-yaml, ros-rolling-rclpy, ros-rolling-std-msgs, ros-rolling-ros-workspace
+Description: ROS package for interfacing with LLM's and VLM's using OpenAI compatible API.
