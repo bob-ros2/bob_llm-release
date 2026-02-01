@@ -1,0 +1,24 @@
+ros-rolling-bob-llm (1.0.2-1noble) noble; urgency=high
+
+  * Full ROS 2 Rolling and Humble compliance (fixed linter issues)
+  * Standardized import ordering and quote usage
+
+ -- Bob Ros <bobmeuchelm@gmail.com>  Sat, 31 Jan 2026 23:00:00 -0000
+
+ros-rolling-bob-llm (1.0.1-1noble) noble; urgency=high
+
+  * Fix 270+ linter and style issues for ROS2 compliance
+  * Fix package.xml schema validation
+  * Standardize docstrings and copyright headers
+  * Contributors: Bob Ros
+
+ -- Bob Ros <bobmeuchelm@gmail.com>  Sun, 25 Jan 2026 23:00:00 -0000
+
+ros-rolling-bob-llm (1.0.0-1noble) noble; urgency=high
+
+  * Initial release of bob_llm
+  * Contributors: Bob Ros
+
+ -- Bob Ros <bobmeuchelm@gmail.com>  Sun, 25 Jan 2026 23:00:00 -0000
+
+
